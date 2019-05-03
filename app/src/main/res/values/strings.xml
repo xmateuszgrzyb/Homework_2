@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Homework_222</string>
+    <string name="task_title">Attraction name</string>
+    <string name="add_task">Add Task</string>
+    <string name="task_description">Description</string>
+    <string name="default_title">Paryz</string>
+    <string name="default_description">Ladne miasto</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="item_selected_msg">Szczegoly obiektu nr: </string>
+    <string name="delete_question">Usunac z listy?</string>
+    <string name="dialog_confirm">Potwierdz</string>
+    <string name="dialog_cancel">Anuluj</string>
+    <string name="delete_dialog_tag">usun tag</string>
+    <string name="delete_click_msg">Usuwanie z listy obiektu nr: </string>
+    <string name="delete_cancel_msg">Usuniecie anulowane</string>
+    <string name="retry_msg">Ponow usuwanie</string>
+    <string name="delete_button">Przycisk usuwajacy obiekt na liscie</string>
+    <string name="myFileprovider">com.example.homework_222.fileprovider</string>
+    <string name="add_attraction">Dodaj atrakcje</string>
+    <string name="task_localization">Lokalizacja</string>
+    <string name="default_localization">Szerokość: 48°51′12″N  Długość: 2°20′55″E</string>
+</resources>
